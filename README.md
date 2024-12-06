@@ -45,7 +45,7 @@ The `pipeline.py` script includes various functions that perform specific tasks 
 
 **Learning Resources:**
 
-The Medium article by Raphael Schols provides a detailed explanation of each function and the overall workflow. You can find it here: [Link to the Medium article "Stop Wasting Time in Excel..."]
+The Medium article by Raphael Schols provides a detailed explanation of each function and the overall workflow. You can find it here: [[Link to the Medium article "Stop Wasting Time in Excel..."](https://medium.com/python-in-plain-english/stop-wasting-time-in-excel-let-python-do-the-work-4bdba1700f86)]
 
 **Feel free to explore the code, modify it to fit your specific needs, and play around with the functionalities!**
 
